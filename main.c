@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-    int i = 10;
-    printf("Hello, world %d!\n", i);
+    int year = 2023;
+    printf("Ola, mundo!\n");
+    printf("Estamos em %d.\n", year);
 
     return 0;
 }
