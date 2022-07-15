@@ -11,7 +11,9 @@
             "target": "${workspaceFolder}/build/${fileBasenameNoExtension}",
             "valuesFormatting": "parseText",
             "cwd": "${workspaceFolder}",
-            "preLaunchTask": "Compile"
+            "preLaunchTask": "Compile",
+            "autorun": ["set disable-randomization off"],
+            "internalConsoleOptions": "openOnSessionStart"
         }
     ]
 }
