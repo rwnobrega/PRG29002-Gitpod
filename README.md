@@ -5,5 +5,5 @@ Repositório da disciplina de Programação I do [curso de Engenharia de Telecom
 ## Teclas de atalho
 
 - `Ctrl-F5`: Compilar e executar
-- `Ctrl-B`: Compilar sem executar
+- `Ctrl-Shift-B`: Compilar sem executar
 - `F5`: Depurar
